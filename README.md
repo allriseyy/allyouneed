@@ -1,2 +1,17 @@
 # allyouneed
-This is how you CI/CD
+
+Javascript </br>
+React </br>
+
+
+
+</br>
+</br>
+</br>
+Docker </br>
+
+
+</br>
+</br>
+</br>
+HTML
