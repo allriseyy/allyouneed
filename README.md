@@ -14,4 +14,6 @@ Docker </br>
 </br>
 </br>
 </br>
-HTML
+HTML  </br>
+CSS  </br>
+TailwindCSS  </br>
