@@ -1,11 +1,14 @@
 # allyouneed
 
 Javascript </br>
+Express </br>
+TypeScript </br>
 React </br>
 </br>
 </br>
 C# </br>
 .NET </br>
+
 
 </br>
 REST API</br>
@@ -19,3 +22,8 @@ Docker </br>
 HTML  </br>
 CSS  </br>
 TailwindCSS  </br>
+
+
+DeepSeek  </br>
+Chatgpt  </br>
+  
